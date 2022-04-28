@@ -21,9 +21,7 @@
 
 ## Languages I'm Planning to Learn:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=c&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=Flask&logoColor=F7DF1E)
 
