@@ -29,7 +29,7 @@
 
 ![Flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=Flask&logoColor=F7DF1E)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninematsuno&hide=dockerfile)](https://github.com/Ninematsuno)
+
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Ninematsuno)
