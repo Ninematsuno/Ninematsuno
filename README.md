@@ -25,9 +25,7 @@
 
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=c&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=Flask&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=c&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=Flask&logoColor=F7DF1E)
 
 
 ## Where to find me
