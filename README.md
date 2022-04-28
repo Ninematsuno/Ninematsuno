@@ -39,7 +39,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ninematsuno&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
 
 ![views](https://komarev.com/ghpvc/?username=Ninematsuno&style=plastic&color=brightgreen)
-[![Github](https://img.shields.io/github/followers/Ninematsuno?color=181717&label=Followers&logo=Followers&logoColor=181717&style=for-the-badge)](https://github.com/AuraMoon55)
+[![Github](https://img.shields.io/github/followers/Ninematsuno?color=181717&label=Followers&logo=Followers&logoColor=181717&style=for-the-badge)](https://github.com/Ninematsuno)
 
 #####
 
