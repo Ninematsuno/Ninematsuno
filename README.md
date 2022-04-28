@@ -8,8 +8,6 @@
 <b>
   Name: Haise. 
   
-  - Nationality: Indian.
-  
   - 15 years old.
   
   - Cuurently Residing in Assam, India
