@@ -28,9 +28,7 @@
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Ninematsuno)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haise_saskii)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Ninematsuno) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haise_saskii)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Ninematsuno&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=FFDF00&bg_color=808080&hide=bg-color&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ninematsuno&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
