@@ -61,10 +61,10 @@
 
 > MOST USED LANGUAGES
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AuraMoon55&show_icons=true&layout=compact&theme=highcontrast" alt="AuraMoon55" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninematsuno&show_icons=true&layout=compact&theme=highcontrast" alt="AuraMoon55" /></p>
 
 
-![AuraMoon55's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=AuraMoon55&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+![Haise's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Ninematsuno&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
 # visitor count
-<a href="https://t.me/Horni_Senpai"><img alt="Visit Count" src="https://count.getloli.com/get/@AuraMoon55?theme=rule34" /></a>
+<a href="https://t.me/Ninematsuno"><img alt="Visit Count" src="https://count.getloli.com/get/@Ninematsuno?theme=rule34" /></a>
